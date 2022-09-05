@@ -1,3 +1,4 @@
+/!fixed theme on local storage some people are having some issue/
 const deg = 6;
 const hour = document.querySelector(".hour");
 const min = document.querySelector(".min");
